@@ -1,6 +1,15 @@
-# Dot Files for Linux
+# Dot Files for Linux Setup
 
 Welcome to my Linux dot files repository! Here, I share my configuration files for Arch Linux. Feel free to use and modify them according to your needs.
+
+<div align="center">
+  <img src="https://github.com/fathinafiff/dotfiles/blob/main/img/example01.png" width="45%" alt="Example 1">
+  <img src="https://github.com/fathinafiff/dotfiles/blob/main/img/example02.png" width="45%" alt="Example 2">
+</div>
+<div align="center">
+  <img src="https://github.com/fathinafiff/dotfiles/blob/main/img/example03.png" width="45%" alt="Example 3">
+  <img src="https://github.com/fathinafiff/dotfiles/blob/main/img/example04.png" width="45%" alt="Example 4">
+</div>
 
 ## System Configuration
 
@@ -8,7 +17,7 @@ Welcome to my Linux dot files repository! Here, I share my configuration files f
 - **GTK Theme:** WhiteSur-Dark
 - **GNOME Shell Theme:** (Modified) Catppuccin-Macchiato-Standard-Lavender-dark
 - **Icons:** WhiteSur-Light
-- **Wallpaper:** [here](link_to_wallpaper)
+- **Wallpaper:** [here](https://github.com/fathinafiff/dotfiles/blob/main/wallpaper/Green%20Mountain.jpg)
 
 ## Usage
 
