@@ -19,6 +19,18 @@ Welcome to my Linux dot files repository! Here, I share my configuration files f
 - **Icons:** WhiteSur-Light
 - **Wallpaper:** [here](https://github.com/fathinafiff/dotfiles/blob/main/wallpaper/Green%20Mountain.jpg)
 
+### Extensions
+- Spacebar
+- Logo Menu
+- Blur my Shell
+- Dash to Dock
+- Forge
+- Just Perfection
+- Search Light
+- AppIndicator and KStatusNotifierItem Support
+- Astra Monitor
+- Clipboard Indicator
+
 ## Usage
 
 1. Ensure that you have installed all the dependencies and required packages.
