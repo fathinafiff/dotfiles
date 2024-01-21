@@ -36,7 +36,7 @@ Welcome to my Linux dot files repository! Here, I share my configuration files f
 1. Ensure that you have installed all the dependencies and required packages.
 2. Clone this repository to the desired directory on your system.
    ```bash
-   git clone link.git
+   git clone https://github.com/fathinafiff/dotfiles.git
    ```
 3. Copy or create symbolic links from the desired configuration files to the corresponding directories.
    ```bash
